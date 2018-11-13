@@ -1,3 +1,7 @@
 # test
 git test
-# rpm -ivh agent-x.x.x.rpm
+```shell
+rpm -ivh agent-x.x.x.rpm
+make
+make FLAG=mq	// 选择编译mq
+```

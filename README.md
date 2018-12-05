@@ -14,4 +14,4 @@ Redhat 6.x，Redhat 7.x
 Ubuntu 14/16
 opensuse脚本修改
 agent-win>属性->配置属性->常规->字符集 更改为【使用多字节字符集】
-···
+```
